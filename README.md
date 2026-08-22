@@ -37,5 +37,5 @@ Planning and inventory analytics
 Practical internal tools
 
 CONNECT
+
 LinkedIn - Athik Ahamed
-GitHub - athikahmd76-stack
